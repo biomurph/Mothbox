@@ -2529,6 +2529,18 @@
 		)
 		(uuid "91225a08-0574-4e27-81b6-43db81f20955")
 	)
+	(text "This could be changed to use both nibbles.\nv5.1 would be Bunary 01010001, Hex 0x51"
+		(exclude_from_sim no)
+		(at 105.41 208.026 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "9cc8bf34-2409-48c3-899f-cc0bbfcb37b4")
+	)
 	(text "Modes"
 		(exclude_from_sim no)
 		(at 138.938 23.876 0)
